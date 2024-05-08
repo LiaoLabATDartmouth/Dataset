@@ -1,0 +1,989 @@
+CommonID,Dataset,Histology,TN,Identifier
+OV:P1,OV,HGSOC,Tumor,OV
+OV:P2,OV,HGSOC,Tumor,OV
+OV:P41,OV,HGSOC,Tumor,OV
+OV:P42,OV,HGSOC,Tumor,OV
+OV:P43,OV,HGSOC,Tumor,OV
+OV:P3,OV,HGSOC,Tumor,OV
+OV:P4,OV,HGSOC,Tumor,OV
+OV:P5,OV,HGSOC,Tumor,OV
+OV:P6,OV,HGSOC,Tumor,OV
+OV:P7,OV,HGSOC,Tumor,OV
+OV:P9,OV,HGSOC,Tumor,OV
+OV:P10,OV,HGSOC,Tumor,OV
+OV:P11,OV,HGSOC,Tumor,OV
+OV:P44,OV,HGSOC,Tumor,OV
+OV:P12,OV,HGSOC,Tumor,OV
+OV:P45,OV,HGSOC,Tumor,OV
+OV:P16,OV,HGSOC,Tumor,OV
+OV:P47,OV,HGSOC,Tumor,OV
+OV:P17,OV,HGSOC,Tumor,OV
+OV:P18,OV,HGSOC,Tumor,OV
+OV:P19,OV,HGSOC,Tumor,OV
+OV:P49,OV,HGSOC,Tumor,OV
+OV:P20,OV,HGSOC,Tumor,OV
+OV:P50,OV,HGSOC,Tumor,OV
+OV:P51,OV,HGSOC,Tumor,OV
+OV:P21,OV,HGSOC,Tumor,OV
+OV:P22,OV,HGSOC,Tumor,OV
+OV:P24,OV,HGSOC,Tumor,OV
+OV:P52,OV,HGSOC,Tumor,OV
+OV:P25,OV,HGSOC,Tumor,OV
+OV:P26,OV,HGSOC,Tumor,OV
+OV:P53,OV,HGSOC,Tumor,OV
+OV:P54,OV,HGSOC,Tumor,OV
+OV:P28,OV,HGSOC,Tumor,OV
+OV:P29,OV,HGSOC,Tumor,OV
+OV:P55,OV,HGSOC,Tumor,OV
+OV:P56,OV,HGSOC,Tumor,OV
+OV:P30,OV,HGSOC,Tumor,OV
+OV:P31,OV,HGSOC,Tumor,OV
+OV:P34,OV,HGSOC,Tumor,OV
+OV:P57,OV,HGSOC,Tumor,OV
+OV:P36,OV,HGSOC,Tumor,OV
+OV:P38,OV,HGSOC,Tumor,OV
+OV:P40,OV,HGSOC,Tumor,OV
+OV:P60,OV,HGSOC,Tumor,OV
+RC18:MSKC-00397,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00399,ccRCC2,Metanphric Adenoma,Tumor,RC18Flow
+RC18:MSKC-00400,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00404,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00405,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00406,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00407,ccRCC2,Chromophobe,Tumor,RC18Flow
+RC18:MSKC-00412,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00441,ccRCC2,Chromophobe,Tumor,RC18Flow
+RC18:MSKC-00417,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00418,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00419,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00420,ccRCC2,Chromophobe,Tumor,RC18Flow
+RC18:MSKC-00421,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00422,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00424,ccRCC2,Chromophobe,Tumor,RC18Flow
+RC18:MSKC-00425,ccRCC2,Chromophobe,Tumor,RC18Flow
+RC18:MSKC-00427,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00429,ccRCC2,Chromophobe,Tumor,RC18Flow
+RC18:MSKC-00430,ccRCC2,Chromophobe,Tumor,RC18Flow
+RC18:MSKC-00431,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00434,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00436,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00437,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00392,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00395,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00398,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00401,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00403,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00411,ccRCC2,Clear Cell,Tumor,RC18Flow
+RC18:MSKC-00350,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00351,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00352,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00353,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00354,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00355,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00356,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00357,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00358,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00359,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00360,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00361,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00362,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00363,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00364,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00365,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00366,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00367,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00368,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00369,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00378,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00379,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00380,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00384,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00386,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00387,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00388,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00389,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00390,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00391,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00258,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00259,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00260,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00262,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00263,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00264,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00265,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00266,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00267,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00268,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00270,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00271,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00272,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00274,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00275,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00276,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00277,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00278,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00279,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00280,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00281,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00282,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00283,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00285,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00286,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00287,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00288,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00289,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00290,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00291,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00292,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00293,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00294,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00295,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00296,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00297,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00298,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00299,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00300,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00301,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00302,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00303,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00304,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00305,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00306,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00307,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00308,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00309,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00310,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00311,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00312,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00313,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00314,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00317,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00320,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00321,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00322,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00323,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00324,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00325,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00326,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00327,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00328,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00329,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00330,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00331,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00332,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00333,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00334,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00335,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00336,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00337,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00338,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00339,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00340,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00341,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00342,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00343,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00344,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00345,ccRCC3,Clear Cell,Normal,RC18MR
+RC18:MSKC-00346,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00347,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00348,ccRCC3,Clear Cell,Tumor,RC18MR
+RC18:MSKC-00349,ccRCC3,Clear Cell,Tumor,RC18MR
+RC12:DIAG-16076,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16078,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16080,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16082,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16084,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16086,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16090,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16094,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16098,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16102,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16106,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16114,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16116,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16120,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16124,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16126,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16128,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16130,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16132,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16136,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16138,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16150,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16152,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16154,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16158,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16160,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16162,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16166,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16168,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16170,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16172,ccRCC1,Clear Cell,Tumor,RC12
+RC12:DIAG-16176,ccRCC1,Clear Cell,Tumor,RC12
+PDAC:NCIA-01751,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01753,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01757,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01759,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01763,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01765,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01767,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01769,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01771,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01773,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01775,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01777,PDAC,PDAC,Normal,PDAC
+PDAC:NCIA-01801,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01802,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01752,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01754,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01803,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01758,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01760,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01804,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01764,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01805,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01766,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01806,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01768,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01807,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01770,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01772,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01808,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01774,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01800,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01778,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01782,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01784,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01788,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01790,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01792,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01794,PDAC,PDAC,Tumor,PDAC
+PDAC:NCIA-01796,PDAC,PDAC,Tumor,PDAC
+BRCA_Terunuma:499527,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499529,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499533,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499535,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499537,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499539,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499541,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499543,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499545,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499547,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499551,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499553,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499557,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499559,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499561,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499563,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499565,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499567,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499573,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499575,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499577,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499581,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499583,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499585,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499587,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499589,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499591,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499593,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499599,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499601,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499603,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499605,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499607,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499611,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499613,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499617,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499623,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499625,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499627,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499629,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499631,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499635,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499637,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499639,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499641,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499643,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499645,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499653,BRCA1,Breast Cancer,Normal,BRCA_Terunuma
+BRCA_Terunuma:499657,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499659,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499661,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499663,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499665,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499667,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499669,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499671,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499673,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499675,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499677,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499679,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499683,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499685,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499689,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499691,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499693,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499695,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499697,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499699,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499701,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499703,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499705,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499707,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499709,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499711,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499713,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499715,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499717,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499719,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499721,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499723,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499725,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499729,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499731,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499733,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499735,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499737,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499741,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499743,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499745,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499751,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499753,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499757,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499759,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499761,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499763,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499765,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499767,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499769,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499771,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499773,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499775,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499777,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499779,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499781,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499783,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499785,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499787,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+BRCA_Terunuma:499789,BRCA1,Breast Cancer,Tumor,BRCA_Terunuma
+COAD:6N,COAD,Colorectal Cancer,Normal,COAD
+COAD:6T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:1N,COAD,Colorectal Cancer,Normal,COAD
+COAD:1T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:2N,COAD,Colorectal Cancer,Normal,COAD
+COAD:2T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:3N,COAD,Colorectal Cancer,Normal,COAD
+COAD:3T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:8N,COAD,Colorectal Cancer,Normal,COAD
+COAD:8T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:9N,COAD,Colorectal Cancer,Normal,COAD
+COAD:10N,COAD,Colorectal Cancer,Normal,COAD
+COAD:10T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:11N,COAD,Colorectal Cancer,Normal,COAD
+COAD:11T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:12T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:13N,COAD,Colorectal Cancer,Normal,COAD
+COAD:13T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:16T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:41N,COAD,Colorectal Cancer,Normal,COAD
+COAD:41T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:47N,COAD,Colorectal Cancer,Normal,COAD
+COAD:47T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:48T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:51T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:52N,COAD,Colorectal Cancer,Normal,COAD
+COAD:52T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:53N,COAD,Colorectal Cancer,Normal,COAD
+COAD:53T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:55N,COAD,Colorectal Cancer,Normal,COAD
+COAD:55T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:146N,COAD,Colorectal Cancer,Normal,COAD
+COAD:146T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:147T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:148N,COAD,Colorectal Cancer,Normal,COAD
+COAD:148T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:149N,COAD,Colorectal Cancer,Normal,COAD
+COAD:149T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:213N,COAD,Colorectal Cancer,Normal,COAD
+COAD:213T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:214T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:215N,COAD,Colorectal Cancer,Normal,COAD
+COAD:215T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:216N,COAD,Colorectal Cancer,Normal,COAD
+COAD:216T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:217N,COAD,Colorectal Cancer,Normal,COAD
+COAD:217T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:231N,COAD,Colorectal Cancer,Normal,COAD
+COAD:231T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:232T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:234N,COAD,Colorectal Cancer,Normal,COAD
+COAD:234T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:235T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:237N,COAD,Colorectal Cancer,Normal,COAD
+COAD:237T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:239N,COAD,Colorectal Cancer,Normal,COAD
+COAD:239T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:240N,COAD,Colorectal Cancer,Normal,COAD
+COAD:240T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:241T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:4N,COAD,Colorectal Cancer,Normal,COAD
+COAD:5N,COAD,Colorectal Cancer,Normal,COAD
+COAD:44N,COAD,Colorectal Cancer,Normal,COAD
+COAD:48N,COAD,Colorectal Cancer,Normal,COAD
+COAD:51N,COAD,Colorectal Cancer,Normal,COAD
+COAD:232N,COAD,Colorectal Cancer,Normal,COAD
+COAD:235N,COAD,Colorectal Cancer,Normal,COAD
+COAD:9T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:12N,COAD,Colorectal Cancer,Normal,COAD
+COAD:16N,COAD,Colorectal Cancer,Normal,COAD
+COAD:44T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:49N,COAD,Colorectal Cancer,Normal,COAD
+COAD:49T,COAD,Colorectal Cancer,Tumor,COAD
+COAD:147N,COAD,Colorectal Cancer,Normal,COAD
+COAD:214N,COAD,Colorectal Cancer,Normal,COAD
+COAD:241N,COAD,Colorectal Cancer,Normal,COAD
+PRAD_2019A:DFCI-00502,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00503,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00505,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00507,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00509,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00511,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00514,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00515,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00518,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00522,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00525,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00527,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00529,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00530,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00531,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00532,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00533,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00535,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00536,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00537,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00540,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00543,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00545,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00546,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00547,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00548,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00549,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00552,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00555,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00560,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00563,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00565,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00566,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00567,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00569,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00571,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00573,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00574,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00576,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00578,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00580,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00586,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00590,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00592,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00594,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00597,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00600,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00601,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00602,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00603,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00604,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00607,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00608,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00609,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00610,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00611,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00612,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00615,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00616,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00617,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00618,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00619,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00620,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00621,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00622,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00623,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00624,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00627,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00628,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00631,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00632,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00635,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00636,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019A:DFCI-00637,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019A
+PRAD_2019A:DFCI-00638,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019A
+PRAD_2019B:DFCI-00744,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00746,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00748,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00750,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00752,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00754,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00756,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00757,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00758,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00759,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00760,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00761,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00762,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00763,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00764,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00767,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00769,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00771,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00773,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00775,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00776,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00777,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00779,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00780,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00782,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00784,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00787,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00788,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00789,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00790,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2019B
+PRAD_2019B:DFCI-00791,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2019B:DFCI-00792,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2019B
+PRAD_2014:DFCI-00067-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00068-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00078-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00079-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00080-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00082-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00084-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00091-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00092-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00093-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00095-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00097-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00100-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00102-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00104-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00105-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00108-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00109-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00110-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00112-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00118-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00121-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00123-01,PRAD,Prostate Adenocarcinoma,Normal,PRAD_2014
+PRAD_2014:DFCI-00130-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00132-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00134-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00137-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00139-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00140-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+PRAD_2014:DFCI-00141-01,PRAD,Prostate Adenocarcinoma,Tumor,PRAD_2014
+HCC:MSKC-00447,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00453,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00455,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00465,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00442,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00467,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00468,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00479,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00485,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00483,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00475,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00486,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00481,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00484,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00444,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00449,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00457,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00458,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00459,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00460,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00463,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00461,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00471,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00470,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00443,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00450,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00474,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00477,HurthleCC,Hurthle Cell,Tumor,HCC
+HCC:MSKC-00487,HurthleCC,Hurthle Cell,Normal,HCC
+HCC:MSKC-00464,HurthleCC,Hurthle Cell,Normal,HCC
+HCC:MSKC-00478,HurthleCC,Hurthle Cell,Normal,HCC
+DLBCL:CORN-01608,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01610,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01611,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01612,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01613,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01614,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01618,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01620,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01621,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01622,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01624,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01625,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01626,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01627,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01628,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01629,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01630,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01631,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01632,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01886,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01887,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01889,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01890,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01892,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01893,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01896,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01897,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01898,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01899,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01902,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01905,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01907,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01908,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01909,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01910,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01911,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01912,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01913,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01914,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01915,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01917,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01918,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01919,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01920,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-01921,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02038,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02039,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02040,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02041,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02042,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02044,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02045,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02046,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02047,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02048,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02049,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02050,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02051,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02052,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02053,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02054,DLBCL,DLBCL,Tumor,DLBCL
+DLBCL:CORN-02055,DLBCL,DLBCL,Tumor,DLBCL
+BRCA_Tang:DUKE-00651,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00652,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00653,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00654,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00657,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00658,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00660,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00662,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00665,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00666,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00667,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00668,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00669,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00670,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00671,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00672,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00673,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+BRCA_Tang:DUKE-00674,BRCA2,Breast Cancer,Tumor,BRCA_Tang
+RC20:MSKC-00573,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00574,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00575,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00576,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00577,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00578,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00579,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00580,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00581,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00582,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00583,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00584,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00585,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00586,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00587,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00588,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00589,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00590,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00591,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00592,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00593,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00594,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00595,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00596,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00597,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00598,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00599,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00600,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00601,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00602,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00603,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00604,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00605,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00606,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00607,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00608,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00609,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00610,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00611,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00612,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00621,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00623,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00624,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00625,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00626,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00627,ccRCC4,Medullary,Tumor,RC20
+RC20:MSKC-00628,ccRCC4,Medullary,Normal,RC20
+RC20:MSKC-00629,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00630,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00631,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00632,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00633,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00635,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00637,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00638,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00639,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00640,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00641,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00642,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00643,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00644,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00645,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00646,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00647,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00648,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00649,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00650,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00651,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00652,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00653,ccRCC4,Clear Cell,Normal,RC20
+RC20:MSKC-00654,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00655,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00656,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00657,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00658,ccRCC4,Clear Cell,Tumor,RC20
+RC20:MSKC-00659,ccRCC4,Clear Cell,Normal,RC20
+GBM:C3L-00365,GBM,GBM,Tumor,GBM
+GBM:C3L-00674,GBM,GBM,Tumor,GBM
+GBM:C3L-00677,GBM,GBM,Tumor,GBM
+GBM:C3L-01043,GBM,GBM,Tumor,GBM
+GBM:C3L-01045,GBM,GBM,Tumor,GBM
+GBM:C3L-01048,GBM,GBM,Tumor,GBM
+GBM:C3L-01049,GBM,GBM,Tumor,GBM
+GBM:C3L-01149,GBM,GBM,Tumor,GBM
+GBM:C3L-01157,GBM,GBM,Tumor,GBM
+GBM:C3L-01887,GBM,GBM,Tumor,GBM
+GBM:C3L-02041,GBM,GBM,Tumor,GBM
+GBM:C3L-02465,GBM,GBM,Tumor,GBM
+GBM:C3L-02504,GBM,GBM,Tumor,GBM
+GBM:C3L-02542,GBM,GBM,Tumor,GBM
+GBM:C3L-02642,GBM,GBM,Tumor,GBM
+GBM:C3L-02704,GBM,GBM,Tumor,GBM
+GBM:C3L-02705,GBM,GBM,Tumor,GBM
+GBM:C3L-02707,GBM,GBM,Tumor,GBM
+GBM:C3L-02708,GBM,GBM,Tumor,GBM
+GBM:C3L-02900,GBM,GBM,Tumor,GBM
+GBM:C3L-02970,GBM,GBM,Tumor,GBM
+GBM:C3L-02984,GBM,GBM,Tumor,GBM
+GBM:C3L-03266,GBM,GBM,Tumor,GBM
+GBM:C3L-03407,GBM,GBM,Tumor,GBM
+GBM:C3L-03681,GBM,GBM,Tumor,GBM
+GBM:C3L-03727,GBM,GBM,Tumor,GBM
+GBM:C3L-03728,GBM,GBM,Tumor,GBM
+GBM:C3L-03748,GBM,GBM,Tumor,GBM
+GBM:C3L-04084,GBM,GBM,Tumor,GBM
+GBM:C3N-00661,GBM,GBM,Tumor,GBM
+GBM:C3N-00662,GBM,GBM,Tumor,GBM
+GBM:C3N-00663,GBM,GBM,Tumor,GBM
+GBM:C3N-00665,GBM,GBM,Tumor,GBM
+GBM:C3N-01192,GBM,GBM,Tumor,GBM
+GBM:C3N-01196,GBM,GBM,Tumor,GBM
+GBM:C3N-01334,GBM,GBM,Tumor,GBM
+GBM:C3N-01364,GBM,GBM,Tumor,GBM
+GBM:C3N-01368,GBM,GBM,Tumor,GBM
+GBM:C3N-01369,GBM,GBM,Tumor,GBM
+GBM:C3N-01505,GBM,GBM,Tumor,GBM
+GBM:C3N-01515,GBM,GBM,Tumor,GBM
+GBM:C3N-01517,GBM,GBM,Tumor,GBM
+GBM:C3N-01518,GBM,GBM,Tumor,GBM
+GBM:C3N-01798,GBM,GBM,Tumor,GBM
+GBM:C3N-01814,GBM,GBM,Tumor,GBM
+GBM:C3N-01815,GBM,GBM,Tumor,GBM
+GBM:C3N-01816,GBM,GBM,Tumor,GBM
+GBM:C3N-01818,GBM,GBM,Tumor,GBM
+GBM:C3N-01852,GBM,GBM,Tumor,GBM
+GBM:C3N-01856,GBM,GBM,Tumor,GBM
+GBM:C3N-02181,GBM,GBM,Tumor,GBM
+GBM:C3N-02183,GBM,GBM,Tumor,GBM
+GBM:C3N-02185,GBM,GBM,Tumor,GBM
+GBM:C3N-02186,GBM,GBM,Tumor,GBM
+GBM:C3N-02188,GBM,GBM,Tumor,GBM
+GBM:C3N-02190,GBM,GBM,Tumor,GBM
+GBM:C3N-02255,GBM,GBM,Tumor,GBM
+GBM:C3N-02256,GBM,GBM,Tumor,GBM
+GBM:C3N-02769,GBM,GBM,Tumor,GBM
+GBM:C3N-02770,GBM,GBM,Tumor,GBM
+GBM:C3N-02782,GBM,GBM,Tumor,GBM
+GBM:C3N-02783,GBM,GBM,Tumor,GBM
+GBM:C3N-02784,GBM,GBM,Tumor,GBM
+GBM:C3N-02785,GBM,GBM,Tumor,GBM
+GBM:C3N-02786,GBM,GBM,Tumor,GBM
+GBM:C3N-02788,GBM,GBM,Tumor,GBM
+GBM:C3N-03070,GBM,GBM,Tumor,GBM
+GBM:C3N-03088,GBM,GBM,Tumor,GBM
+GBM:C3N-03180,GBM,GBM,Tumor,GBM
+GBM:C3N-03182,GBM,GBM,Tumor,GBM
+GBM:C3N-03183,GBM,GBM,Tumor,GBM
+GBM:C3N-03184,GBM,GBM,Tumor,GBM
+GBM:C3N-03186,GBM,GBM,Tumor,GBM
+GBM:C3N-03188,GBM,GBM,Tumor,GBM
+GBM:PT-NPJ7,GBM,GBM,Normal,GBM
+GBM:PT-P44H,GBM,GBM,Normal,GBM
+GBM:PT-R55F,GBM,GBM,Normal,GBM
+GBM:PT-RN5K,GBM,GBM,Normal,GBM
+GBM:PT-UTHO,GBM,GBM,Normal,GBM
+GBM:PT-WVLH,GBM,GBM,Normal,GBM
+LiCa1:LCS_501,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_502,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_503,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_504,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_505,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_506,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_507,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_508,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_509,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_510,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_511,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_512,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_513,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_514,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_515,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_516,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_517,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_518,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_519,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_520,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_524,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_525,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_527,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_528,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_529,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_530,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_536,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_537,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_539,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_540,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_541,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_542,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_543,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_544,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_545,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_546,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_547,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_548,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_549,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_550,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_551,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_552,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_553,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_557,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_558,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_559,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_560,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_562,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_563,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_564,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_565,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_566,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa1:LCS_567,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa2:LCS_570,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_571,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_572,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_573,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_574,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_575,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_577,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_578,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_579,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_580,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_581,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_583,ICC,CCA,Tumor,LiCa2
+LiCa1:LCS_584,HCC,Hepatocellular carcinoma,Tumor,LiCa1
+LiCa2:LCS_585,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_586,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_587,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_590,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_594,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_595,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_596,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_597,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_598,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_599,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_601,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_602,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_603,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_604,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_606,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_608,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_609,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_610,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_612,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_613,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_614,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_615,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_616,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_618,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_620,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_621,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_623,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_624,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_625,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_626,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_627,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_628,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_630,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_631,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_633,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_634,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_635,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_636,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_637,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_638,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_639,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_640,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_641,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_642,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_643,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_644,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_645,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_646,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_649,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_651,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_652,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_653,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_654,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_657,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_658,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_664,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_667,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_668,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_669,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_670,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_671,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_674,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_675,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_677,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_678,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_679,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_680,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_681,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_682,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_683,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_684,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_685,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_687,ICC,CCA,Tumor,LiCa2
+LiCa2:LCS_688,ICC,CCA,Tumor,LiCa2
